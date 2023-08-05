@@ -29,7 +29,7 @@
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
+
   <img src="https://redux.js.org/img/redux.svg" alt="Redux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
