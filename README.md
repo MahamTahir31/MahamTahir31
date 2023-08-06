@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://octodex.github.com/images/welcometocat.png" alt=celebrate width=300 >
+</p>
 <h1 align="center">Hi there! 👋 I'm Maham Tahir</h1>
 <h3 align="center">A Passionate Full Stack Developer | Python Enthusiast | Aspiring Writer</h3>
 
