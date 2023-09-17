@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.keepsolid.com/blog/wp-content/uploads/2018/12/giphy-article-top-tools-for-managers.gif" alt="Celebrate" width="700">
+  <img src="https://www.keepsolid.com/blog/wp-content/uploads/2018/12/giphy-article-top-tools-for-managers.gif" alt="Celebrate" width="600">
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Maham Tahir</h1>
@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://th.bing.com/th/id/R.2e7392bd69172cb64fb648d6a5abb830?rik=efZhR2aKJswCEg&pid=ImgRaw&r=0" alt="Coding Gif"  />
-  <img src="https://th.bing.com/th/id/R.2e7392bd69172cb64fb648d6a5abb830?rik=efZhR2aKJswCEg&pid=ImgRaw&r=0" alt="Coding Gif" />
 </p>
 
 <p align="center">
