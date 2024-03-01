@@ -35,13 +35,6 @@
   <!-- Add more languages and tools as per your preference -->
 </p>
 
-<h3 align="center">GitHub Statistics:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahamtahir&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamtahir&" alt="GitHub Streak" />
-  <!-- Add more stats as desired -->
-</p>
-
 <h3 align="center">Know about my experiences:</h3>
 <p align="center">
   <a href="https://github.com/MahamTahir31/MahamTahir31/blob/main/Maham_Tahir_resume.pdf" style="text-decoration: none; color: white; background-color: #007BFF; border: 2px solid white; padding: 10px; display: inline-block;">📄 View my Resume</a>
