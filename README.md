@@ -43,16 +43,17 @@
 </p>
 
 <h3 align="center">❤ Views and Followers</h3>
+<p align= "center>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MahamTahir31">
 </a>
 <a href="https://github.com/MahamTahir31?tab=followers"><img src="https://img.shields.io/github/followers/MahamTahir31?label=Followers&style=social" alt="GitHub Badge"></a>
-
-<h3 align="center">Let's Connect:</h3>
-<p align="center">
-
-  <a href = "https://linkedin.com/in/maham_tahir31"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "https://www.instagram.com/poetrybymahamtahir?igsh=MWhldDJoYnBsdWUyYg=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  <a href = "https://www.facebook.com/profile.php?id=61551657878159&mibextid=ZbWKwL"><img src="https://img.icons8.com/fluency/48/null/facebook-new.png"/></a>
-
 </p>
+<h3 align="center">Let's Connect:</h3>
+
+<div align="center">
+<a href = "https://linkedin.com/in/maham_tahir31"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/poetrybymahamtahir?igsh=MWhldDJoYnBsdWUyYg=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/profile.php?id=61551657878159&mibextid=ZbWKwL"><img src="https://img.icons8.com/fluency/48/null/facebook-new.png"/></a>
+
+</div>
