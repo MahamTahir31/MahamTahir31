@@ -43,7 +43,7 @@
 </p>
 
 <h3 align="center">❤ Views and Followers</h3>
-<div align= "center>
+<div align= "center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MahamTahir31">
 </a>
