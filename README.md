@@ -29,16 +29,19 @@
 </p>
 
 ## 📊 My Github Stats
-<div style= "display: flex">
-  <br/>
-    <a href="https://github.com/MahamTahir31/github-readme-stats"><img alt="Maham Tahir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MahamTahir31&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-<a href="https://github.com/MahamTahir31/github-readme-stats"><img alt="Maham Tahie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahamTahir31&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/MahamTahir31/github-readme-stats" style="margin-right: 10px;">
+    <img alt="Maham Tahir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MahamTahir31&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/MahamTahir31/github-readme-stats">
+    <img alt="Maham Tahir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahamTahir31&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
 </div>
 <h3 align="center">Know about my experiences:</h3>
 <p align="center">
   <a href="https://github.com/MahamTahir31/MahamTahir31/blob/main/Maham_Tahir_resume.pdf" style="text-decoration: none; color: white; background-color: #007BFF; border: 2px solid white; padding: 10px; display: inline-block;">📄 View my Resume</a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahamtahir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
