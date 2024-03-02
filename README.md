@@ -43,12 +43,13 @@
 </p>
 
 <h3 align="center">❤ Views and Followers</h3>
-<p align= "center>
+<div align= "center>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MahamTahir31">
 </a>
 <a href="https://github.com/MahamTahir31?tab=followers"><img src="https://img.shields.io/github/followers/MahamTahir31?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
+</div>
+
 <h3 align="center">Let's Connect:</h3>
 
 <div align="center">
