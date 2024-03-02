@@ -35,6 +35,12 @@
   <!-- Add more languages and tools as per your preference -->
 </p>
 
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/MahamTahir31/github-readme-stats"><img alt="Maham Tahir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MahamTahir31&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+
 <h3 align="center">Know about my experiences:</h3>
 <p align="center">
   <a href="https://github.com/MahamTahir31/MahamTahir31/blob/main/Maham_Tahir_resume.pdf" style="text-decoration: none; color: white; background-color: #007BFF; border: 2px solid white; padding: 10px; display: inline-block;">📄 View my Resume</a>
