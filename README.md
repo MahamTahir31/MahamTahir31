@@ -42,7 +42,7 @@
   <a href="https://github.com/MahamTahir31/MahamTahir31/blob/main/Maham_Tahir_resume.pdf" style="text-decoration: none; color: white; background-color: #007BFF; border: 2px solid white; padding: 10px; display: inline-block;">📄 View my Resume</a>
 </p>
 
-## ❤ Views and Followers
+<h3 align="center">❤ Views and Followers</h3>
 <p align="center">
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -54,8 +54,8 @@
 <h3 align="center">Let's Connect:</h3>
 <p align="center">
 
-<a href = "https://linkedin.com/in/maham_tahir31"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/poetrybymahamtahir?igsh=MWhldDJoYnBsdWUyYg=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/profile.php?id=61551657878159&mibextid=ZbWKwL"><img src="https://img.icons8.com/fluency/48/null/facebook-new.png"/></a>
+  <a href = "https://linkedin.com/in/maham_tahir31"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href = "https://www.instagram.com/poetrybymahamtahir?igsh=MWhldDJoYnBsdWUyYg=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href = "https://www.facebook.com/profile.php?id=61551657878159&mibextid=ZbWKwL"><img src="https://img.icons8.com/fluency/48/null/facebook-new.png"/></a>
 
 </p>
