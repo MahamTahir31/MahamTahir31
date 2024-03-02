@@ -42,13 +42,17 @@
   <a href="https://github.com/MahamTahir31/MahamTahir31/blob/main/Maham_Tahir_resume.pdf" style="text-decoration: none; color: white; background-color: #007BFF; border: 2px solid white; padding: 10px; display: inline-block;">📄 View my Resume</a>
 </p>
 
-
+## ❤ Views and Followers
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahamtahir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=MahamTahir31">
+</a>
+<a href="https://github.com/MahamTahir31?tab=followers"><img src="https://img.shields.io/github/followers/ImaanTahir07?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
 <h3 align="center">Let's Connect:</h3>
-<p align="left">
+<p align="center">
 
 <a href = "https://linkedin.com/in/maham_tahir31"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/poetrybymahamtahir?igsh=MWhldDJoYnBsdWUyYg=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
