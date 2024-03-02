@@ -40,6 +40,7 @@
   <br/>
     <a href="https://github.com/MahamTahir31/github-readme-stats"><img alt="Maham Tahir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MahamTahir31&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+  <a href="https://github.com/MahamTahir31/github-readme-stats"><img alt="Maham Tahie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaanTahir07&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <h3 align="center">Know about my experiences:</h3>
 <p align="center">
