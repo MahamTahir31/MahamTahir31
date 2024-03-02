@@ -48,9 +48,10 @@
 </p>
 
 <h3 align="center">Let's Connect:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/maham_tahir31" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <!-- Add more social media links here -->
+<p align="left">
+
+<a href = "https://linkedin.com/in/maham_tahir31"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/poetrybymahamtahir?igsh=MWhldDJoYnBsdWUyYg=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/profile.php?id=61551657878159&mibextid=ZbWKwL"><img src="https://img.icons8.com/fluency/48/null/facebook-new.png"/></a>
+
 </p>
