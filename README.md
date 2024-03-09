@@ -10,8 +10,10 @@
 </p>
 <h1 align="center">Brief Introduction About Me</h1>
 </p> I'm Maham Tahir, a passionate Mern Stack Developer highly practicing on developing the sites meeting the criteria of real world. As you can perceive the tech stack from my title "MERN", I'm working on Mongo DB, Express.js, React.js + Redux.js, and Node.js. Not only learning these stacks but also trying to implement them practically.</p>
-<p> Apart from this, I'm also a python developer, how I started my journey in python? So it's about 3 years ago, when I entered in the Technology World first time by taking admission in BSCs at UBIT - A valueable department of University Of Karachi. I started learning programming in python because it is easy to understand and implement. So uptill now as I'm in third year of my four year program, just adopted this language as my core and building every project related to subject using this.</p>
-<p> Therefore, I'm having two tech stacks, one is mern stack which I learned through different courses and other is python I learned in University + through some courses as well.</p>
+<p> Apart from this, I'm also a python developer, how I started my journey in python? So it's about 3 years ago, when I entered in the Technology World first time by taking admission in BSCs at UBIT - A valueable department of University Of Karachi. I started learning programming in python because it is easy to understand and implement. So uptill now as I'm in final year of my four year program, just adopted this language as my core and building every project related to subject using this.</p>
+<p> Therefore, I'm having two tech stacks, one is mern stack which I learned through different courses and other is python I learned in the University + through some courses as well.
+</p>
+<p>Also if I talk about my future goals. So I'm exploring Data Science - emerging field nowadays! Main reason to choose this field is to polish my intelligence skills through dealing with different types of data.</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
