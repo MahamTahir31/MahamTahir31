@@ -21,13 +21,13 @@
 
 
 ## 📊 GitHub Stats:
-<div style="text-align:center;">
+<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahamTahir31&theme=react&hide_border=true" alt="GitHub Streak" />
-</div>
+</p>
 
-<div style="text-align:center;">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahamTahir31&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+</p>
 
 ## 📊 GitHub Trophies:
 <div style="display: flex; justify-content: center; align-items: center;">
