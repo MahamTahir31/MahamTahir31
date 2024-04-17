@@ -29,7 +29,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahamTahir31&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
     </div>
 </div>
-## 🏆 GitHub Trophies:
+## 📊 GitHub Trophies:
 <div style="display: flex; justify-content: center; align-items: center;">
     <div>
         <img src="https://github-profile-trophy.vercel.app/?username=MahamTahir31&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
