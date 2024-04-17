@@ -29,7 +29,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahamTahir31&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
     </div>
 </div>
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 <div style="display: flex; justify-content: center; align-items: center;">
     <div>
         <img src="https://github-profile-trophy.vercel.app/?username=MahamTahir31&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
@@ -42,19 +42,18 @@
     </div>
 </div>
 
-## Coding Profiles
-<div style="display: flex; justify-content: center;">
-    <a href="https://leetcode.com/Maham31/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
-    </a>
-</div>
+## 💻 Coding Profiles:
+<center>
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Maham31/)
+</center>
 
-## ❤ Followers
+
+## ❤ Followers:
 <div align= "center">
 <a href="https://github.com/MahamTahir31?tab=followers"><img src="https://img.shields.io/github/followers/MahamTahir31?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
 
-<h3 align="center">Let's Connect:</h3>
+## ➡️ Let's Connect:
 
 <div align="center">
 <a href = "https://linkedin.com/in/maham_tahir31"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
