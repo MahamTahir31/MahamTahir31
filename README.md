@@ -22,10 +22,10 @@
 
 ## 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center;">
-    <div>
+    <div style="flex: 1;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahamTahir31&theme=react&hide_border=true" />
     </div>
-    <div>
+    <div style="flex: 1;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahamTahir31&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
     </div>
 </div>
