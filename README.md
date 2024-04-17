@@ -25,17 +25,19 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahamTahir31&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MahamTahir31&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MahamTahir31&label=Profile%20views&color=0e75b6&style=flat" alt="MahamTahir31" /> </p>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div>
+        <img src="https://github-profile-trophy.vercel.app/?username=MahamTahir31&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
+    </div>
+    <div>
+        <p align="left">
+            <img src="https://komarev.com/ghpvc/?username=MahamTahir31&label=Profile%20views&color=0e75b6&style=flat" alt="MahamTahir31" />
+        </p>
+    </div>
+</div>
 
 ## Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Maham31/)
-
-<h3 align="center">Know about my experiences:</h3>
-<p align="center">
-  <a href="https://github.com/MahamTahir31/MahamTahir31/blob/main/Maham_Tahir_resume.pdf" style="text-decoration: none; color: white; background-color: #007BFF; border: 2px solid white; padding: 10px; display: inline-block;">📄 View my Resume</a>
-</p>
 
 <h3 align="center">❤ Views and Followers</h3>
 <div align= "center">
