@@ -29,6 +29,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahamTahir31&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
     </div>
 </div>
+
 ## 📊 GitHub Trophies:
 <div style="display: flex; justify-content: center; align-items: center;">
     <div>
@@ -44,9 +45,10 @@
 
 ## 💻 Coding Profiles:
 
+<p align="center">  
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Maham31/)
 
-
+<p>  
 
 ## ❤ Followers:
 <div align= "center">
