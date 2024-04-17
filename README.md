@@ -44,11 +44,8 @@
 ## Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Maham31/)
 
-<h3 align="center">❤ Views and Followers</h3>
+<h3>❤ Followers</h3>
 <div align= "center">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MahamTahir31">
-</a>
 <a href="https://github.com/MahamTahir31?tab=followers"><img src="https://img.shields.io/github/followers/MahamTahir31?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
 
