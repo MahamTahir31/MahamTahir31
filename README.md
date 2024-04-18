@@ -22,7 +22,7 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahamTahir31&theme=react&hide_border=true" alt="GitHub Streak" />
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MahamTahir31&theme=transparent&hide_border=true&border_radius=4.9" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
