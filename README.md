@@ -13,7 +13,7 @@
 <p> Apart from this, I'm also a python developer, how I started my journey in python? So it's about 3 years ago, when I entered in the Technology World first time by taking admission in BSCs at UBIT - A valueable department of University Of Karachi. I started learning programming in python because it is easy to understand and implement. So uptill now as I'm in final year of my four year program, just adopted this language as my core and building every project related to subject using this.</p>
 <p> Therefore, I'm having two tech stacks, one is mern stack which I learned through different courses and other is python I learned in the University + through some courses as well.
 </p>
-<p>Also if I talk about my future goals, I'm exploring Data Science - emerging field nowadays! Main reason to choose this field is to polish my intelligence skills through dealing with different types of data.</p>
+<p>Also if I talk about my future goals, I'm exploring Data Science - emerging field nowadays! Main reason to choose this field is to polish my intelligence skills through dealing with different sets of data.</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
