@@ -24,14 +24,14 @@
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MahamTahir31&theme=midnight-purple&hide_border=true&border_radius=4.9" alt="GitHub Streak" /></a>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahamTahir31&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&border_radius=4.9" alt="MahamTahir31 " />
-</p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahamTahir31&theme=midnight-purple&hide_border=true&border_radius=4.9r=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000000" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahamTahir31&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&border_radius=4.9" alt="MahamTahir31 " />
+</p>
 ## 📊 GitHub Trophies:
 <div style="display: flex; justify-content: center; align-items: center;">
     <div>
