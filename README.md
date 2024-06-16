@@ -32,6 +32,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MahamTahir31&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&border_radius=4.9" alt="MahamTahir31 " />
 </p>
+
 ## 📊 GitHub Trophies:
 <div style="display: flex; justify-content: center; align-items: center;">
     <div>
