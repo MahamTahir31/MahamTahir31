@@ -11,7 +11,7 @@
 <h1 align="center">Brief Introduction About Me</h1>
 </p> I'm Maham Tahir, a passionate Frontend Engineer highly practicing on developing the sites meeting the criteria of real world. I develop the stunning designs using React - A strong library of JavaScript. Currently, I'm learning these all the things and practicing them by developing the interesting projects.</p>
 <p> Apart from this, I'm also a python developer, how I started my journey in python? So it's about 3.5 years ago, when I entered in the Technology World first time by taking admission in BSCs at UBIT - A valueable department of University Of Karachi. I started learning programming in python because it is easy to understand and implement. So uptill now as I'm in final year of my four year program, just adopted this language as my core and building every project related to subject using this.</p>
-<p>Plus, If my domain of interest is data science - an emerging field nowadays! Trying to build concepts related to data through various courses with my development as well.</p>
+<p>Plus, If I talk about my domain of interest is data science - an emerging field nowadays! Trying to build concepts related to data through various courses with my development as well.</p>
 <p>If you found me the right person you are looking for, you can contact me through gmail: mahamst31@gmail.com.</p>
 
 
