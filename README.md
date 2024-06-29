@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Trophies:
 <div style="display: flex; justify-content: center; align-items: center;">
-    <div>
+    <div> 
         <img src="https://github-profile-trophy.vercel.app/?username=MahamTahir31&theme=onedark&no-frame=false&no-bg=false&margin-w=4" />
     </div>
     <div>
