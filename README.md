@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://www.keepsolid.com/blog/wp-content/uploads/2018/12/giphy-article-top-tools-for-managers.gif" alt="Celebrate" width="600">
 </p> 
-   
+    
 <h1 align="center">Hi there! 👋 I'm Maham Tahir</h1>           
 <h3 align="center">Python Developer | Frontend Engineer | Data Science Enthusiast | Writer</h3>             
 
