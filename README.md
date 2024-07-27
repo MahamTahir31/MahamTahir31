@@ -4,7 +4,7 @@
        
 <h1 align="center">Hi there! 👋 I'm Maham Tahir</h1>           
 <h3 align="center">Python Developer | Frontend Engineer | Data Science Enthusiast | Writer</h3>              
-
+ 
 <p align="center">
   <img src="https://th.bing.com/th/id/R.2e7392bd69172cb64fb648d6a5abb830?rik=efZhR2aKJswCEg&pid=ImgRaw&r=0" alt="Coding Gif"  />
 </p>
