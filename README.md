@@ -2,14 +2,14 @@
   <img src="https://www.keepsolid.com/blog/wp-content/uploads/2018/12/giphy-article-top-tools-for-managers.gif" alt="Celebrate" width="600">
 </p>      
                        
-<h1 align="center">Hi there! 👋 I'm Maham Tahir</h1>                  
+<h1 align="center">Hi there! 👋 I'm Maham Tahir</h1>                   
 <h3 align="center">Mern Stack Developer | Python Programmer | Data science Enthusiast | Writer</h3>                
   
 <p align="center">
   <img src="https://th.bing.com/th/id/R.2e7392bd69172cb64fb648d6a5abb830?rik=efZhR2aKJswCEg&pid=ImgRaw&r=0" alt="Coding Gif"  />
 </p>
 <h1 align="center">Brief Introduction About Me</h1>
-</p> I'm Maham Tahir, a passionate Python Developer & Frontend engineer. As a frontend engineer, my focus is on developing the sites meeting the criteria of real world. I develop the stunning designs using React - A strong library of JavaScript. Currently, I'm learning these all the things and practicing them by developing the interesting projects.</p>
+</p> I'm Maham Tahir, a passionate Mern Stack Developer & Python Programmer. As a Mern Stack Developer, my focus is on developing the sites meeting the criteria of real world. I develop the stunning designs using React - A strong library of JavaScript. Currently, I'm learning these all the things and practicing them by developing the interesting projects.</p>
 <p> Apart from this, how I started my journey in python? So it's about 3.5 years ago, when I entered in the Technology World first time by taking admission in BSCS at UBIT - A valueable department of University Of Karachi. I started learning programming in python because it is easy to learn and implement. So uptill now as I'm in final year of my four year program, just adopted this language as my core and building every project related to subject using this.</p>
 <p>Plus, If I talk about my domain of interest so it is data science - an emerging field nowadays! Trying to build concepts related to this domain through various courses.</p>
 <p> So basically, my goal is to become a python full stack developer which contains working of frontend, backend, and database of the site. For frontend, I'm intended to use html, css, javascript, and react. For backend, my focus will be on django, Fast API, and rest of the libraries of python, and for db, I will use postgreSQL and SQL mainly.</p>
